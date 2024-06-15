@@ -1,0 +1,29 @@
+    body {
+        background-color: #419481;  /*this is also a comment*/
+        color: #1e1d20;                <!this is a comment>
+        }
+    /*sets the page background color and text color for the body*/
+    /*this type of comment is much easier to read*/    
+    
+    nav {
+        height: 600px;
+        width: 200px;
+        float: left;
+        padding: 5px;
+        line-height: 30px;
+        }
+    /*sets spacing between lines,(30px)and number of px spacing between pics and text from the border of the nav bar*/
+    footer {
+        text-align: center;
+        margin-right: 200px;
+        }
+    /*sets the footer text aligned center, sets the margin for the footer only, 200 px from the right side of the screen inward*/
+    #meme{
+        margin-right: 200px;
+        }
+    /*moves the images with "meme" id 200px over from exsisting margin*/
+    header {
+        text-align: center;
+        border: 2px solid, black;
+        }
+    /*aligns text to center and sets a border 2px thick;colored black*/
